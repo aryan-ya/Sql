@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aryan-ya/Sql/issues"
   },
-  "homepage": "https://github.com/aryan-ya/Sql#readme"
+  "homepage": "https://github.com/aryan-ya/Sql#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3"
+  }
 }
